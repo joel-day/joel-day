@@ -16,3 +16,5 @@ Hi, I'm Joel Day, a Data Scientist working with data to drive insights and autom
 
 Featured Projects 🌟
 Here are some projects I've worked on that I'm particularly proud of:
+
+https://github.com/joel-day/Election-Forecasting-with-Artifical-Intelligence

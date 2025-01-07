@@ -1,6 +1,6 @@
 **Hi there 👋**
 
-I'm a Data Scientist working with data to drive insights and automate processes. I'm passionate about healthcare, and forecating in the sports and political arenas. 
+I'm a Data Scientist passionate about using advanced technogies to improve the healthcare field and our general ability to predict the future (sports, political elections, stocks).
 
 **Featured Project: Neural Network from Scratch w/ Python!**
 
